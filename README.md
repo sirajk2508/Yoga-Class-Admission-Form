@@ -13,7 +13,7 @@ Welcome to the Yoga Classes Admission Form project! This application allows user
 ## Technologies Used
 
 - **Frontend:**
-  - React (created with Create React App)
+  - React
   - Parcel (bundler)
   - CSS
 
